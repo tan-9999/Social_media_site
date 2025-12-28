@@ -69,12 +69,19 @@ Open your browser and visit: `http://127.0.0.1:8000/`
 ## 📂 Project Structure
 Social_media_site/
 ├── accounts/ # User authentication app
+
 ├── groups/ # Community groups management
+
 ├── posts/ # Posting functionality
+
 ├── Social_media_site/# Main project settings & URLs
+
 ├── static/ # CSS, JS, and Images
+
 ├── templates/ # HTML Templates
+
 ├── manage.py # Django command-line utility
+
 └── db.sqlite3 # Local database
 
 text
