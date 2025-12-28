@@ -68,6 +68,7 @@ Open your browser and visit: `http://127.0.0.1:8000/`
 
 ## 📂 Project Structure
 Social_media_site/
+
 ├── accounts/ # User authentication app
 
 ├── groups/ # Community groups management
