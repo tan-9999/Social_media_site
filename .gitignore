@@ -1,0 +1,38 @@
+# Python / Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+*.log
+local_settings.py
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Static / Media (Don't commit user-uploaded files)
+/media/
+/static/
+!/static/simplesocial/  # Keep your custom CSS/JS
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Testing / Coverage
+.coverage
+htmlcov/
+pytest_cache/
+
+# Email file backend
+sent_emails/
